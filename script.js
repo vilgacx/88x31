@@ -8,7 +8,7 @@ function main() {
       (data['tree']).forEach((item) => {
         files.push(item['path']);
         const img = document.createElement('img');
-        img.src = '/gifs/' + item['path'];
+        img.src = '/88x31/gifs/' + item['path'];
         container.appendChild(img);
       });
     }).catch((error) => {
