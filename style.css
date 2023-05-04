@@ -1,4 +1,4 @@
 * { font-family: monospace; }
 h1 { font-size: 48px; }
 h3 { font-weight: normal; }
-input { outline: none; font-size: 20px; }
+input { outline: none; font-size: 20px; padding: 4px; }
