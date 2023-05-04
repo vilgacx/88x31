@@ -1,7 +1,7 @@
 let files = [];
 
 function main() {
-  fetch("https://api.github.com/repos/xorvet/88x31/git/trees/da60b7df28f8dd45a64298cbc39e2a0821fb5632")
+  fetch("https://api.github.com/repos/xorvet/88x31/git/trees/6812e3bb73c335e246364147ef2cf4fd2f1ff9f2")
     .then((response) => response.json())
     .then((data) => {
       const container = document.getElementById('contain-gifs');
