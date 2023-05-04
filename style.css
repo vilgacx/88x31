@@ -1,5 +1,19 @@
 * { font-family: monospace; }
+
 h1 { font-size: 48px; }
+
 h3 { font-weight: normal; }
-input { outline: none; font-size: 20px; padding: 4px; }
-#contain-gifs { padding: 12px; border-style: solid; border-width: 1px; border-color: gray}
+
+input {
+  outline: none;
+  font-size: 20px;
+  padding: 4px;
+}
+
+#contain-gifs { 
+  padding: 12px;
+  border-style: solid; 
+  border-width: 1px;
+  border-color: gray;
+  overflow: auto;
+}
