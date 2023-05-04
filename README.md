@@ -1,7 +1,7 @@
 # 88x31
 
 A Collection of 88x31px GIFs.
-Vist [xorvet.github.io/88x31](xorvet.github.io/88x31/) to search for GIFs.
+Vist [xorvet.github.io/88x31](https://xorvet.github.io/88x31/) to search for GIFs.
 
 ## Contribution Guidelines
 - NSFW GIF(s) aren't allowed due to [Github Site Policy](https://docs.github.com/en/site-policy)
