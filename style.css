@@ -10,10 +10,9 @@ input {
   padding: 4px;
 }
 
-#contain-gifs { 
+#contain-gifs {
+  text-align: center;
   padding: 12px;
-  border-style: solid; 
-  border-width: 1px;
-  border-color: gray;
+  border: solid 1px gray; 
   overflow: auto;
 }

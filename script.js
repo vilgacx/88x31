@@ -24,8 +24,15 @@ function main() {
 
 }; main();
 
-function Search() {
+function Search() { 
   const SearchTerm = document.querySelector("input").value;
-  console.log(SearchTerm);
-
+  const container = document.getElementById('contain-gifs');
+  container.replaceChildren();
+  files.forEach((item) => {
+    if (item.includes(SearchTerm) === true) {
+      const img = document.createElement('img');
+      img.src = `${window.location.pathname}gifs/${item}`;
+      container.appendChild(img); 
+    }; 
+  });
 }
