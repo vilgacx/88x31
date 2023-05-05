@@ -1,3 +1,5 @@
+document.querySelector("input").style.display = "initial";
+
 let files = [];
 
 function main() {
