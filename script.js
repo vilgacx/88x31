@@ -27,7 +27,7 @@ function main() {
 }; main();
 
 function Search() { 
-  const SearchTerm = document.querySelector("input").value;
+  const SearchTerm = (document.querySelector("input").value).toLowerCase();
   const container = document.getElementById('contain-gifs');
   container.replaceChildren();
   files.forEach((item) => {
