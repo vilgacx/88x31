@@ -1,7 +1,7 @@
 # 88x31
 
 A Collection of 88x31px GIFs.
-Vist https://xorvet.github.io/88x31/ to search for GIFs.
+Vist https://vilgacx.github.io/88x31 to search for GIFs.
 
 You can add your own GIF(s) or add relevent GIF(s) from these sites:
 - https://cyber.dabamos.de/88x31
