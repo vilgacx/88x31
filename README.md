@@ -1,6 +1,6 @@
 # 88x31
 
-A Collection of 88x31px GIFs.
+A Collection of 88x31px GIFs. The website allows you to easily search for 88x31 GIF(s).
 Vist https://vilgacx.github.io/88x31 to search for GIFs.
 
 You can add your own GIF(s) or add relevent GIF(s) from these sites:
