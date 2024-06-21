@@ -1,8 +1,9 @@
-* { font-family: monospace; }
+* {
+  font-family: 'Times New Roman', serif;
+  font-weight: normal;
+}
 
 h1 { font-size: 48px; }
-
-h3 { font-weight: normal; }
 
 input {
   outline: none;
